@@ -1,4 +1,4 @@
-# Police Roleplay (RP) GTA Ticket System Documentation
+# Police Roleplay (RP) Ticket System Documentation
 
 ## Statuses
 - **Open:** The ticket is newly created and is awaiting action.
